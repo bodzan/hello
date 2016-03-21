@@ -1,0 +1,17 @@
+{
+	"name" : "bradovanovic/hello",
+	"descriptiom" : "Basic Helloword Example",
+        "type": "synergy-module",
+        "version": "1.0.0",
+        "license": "MIT",
+	"authors" : [
+		{
+			"name" : "Bojan Radovanovic",
+			"email" : "bradovanovic@carnegietechnologies.com"
+		}
+	],
+	"minimum-stability" : "dev",    
+        "require": {
+            "shanedaniels/composer-installers": "^1.0@dev"
+        }
+}
