@@ -1,7 +1,6 @@
 <?php
 namespace Bradovanovic\Hello\Http\Controllers\Frontend;
 
-//use App\Http\Controllers\Controller;
 use Synergy\Platform\Http\Controllers\Controller;
 use Synergy\Users\Repositories\UserRepositoryInterface;
 
